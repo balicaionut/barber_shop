@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368745890462",
+    "project_id": "barbershop-4ccdd",
+    "storage_bucket": "barbershop-4ccdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368745890462:android:5570bd5566c4b8aa01f18f",
+        "android_client_info": {
+          "package_name": "com.example.barber_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368745890462-glsphgld4acn271ejubrk6cs50tmk7de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barber_shop",
+            "certificate_hash": "d41a0177294a73c2ee4dcd1afb17170c734b8b3e"
+          }
+        },
+        {
+          "client_id": "368745890462-ojvm0iqn28indig9r19cdmgfsvfg37su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4oshCUKxdLS9BNd9zhqDf0XRZK6_iwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368745890462-ojvm0iqn28indig9r19cdmgfsvfg37su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
